@@ -1,1 +1,1 @@
-*.yy linguist-language=JSON linguist-generated
+*.yy linguist-language=Game Maker Language
